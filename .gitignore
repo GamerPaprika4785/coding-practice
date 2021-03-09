@@ -1,2 +1,4 @@
+#Exclude VsCode folder
 .vscode/
+#Exclude Workflows folder 
 .github/workflows
