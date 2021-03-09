@@ -10,7 +10,12 @@ Webiste based on:
 <li>Bootstrap version v5.0.0-beta1</li> 
 <li>HTML 5</li>
 <li>CSS</li>
-<li>Thanks For Coming Soon Template from Start Bootstrap</li>
+<li>Fontawesome Free</li>
+<li>Jquery</li>
+<li>Javascript</li>
+<li>Coming Soon template from Start Bootstrap</li>
+<li>Header.html from Elements Build With Angga </li>
+
 
   </ul>
 
