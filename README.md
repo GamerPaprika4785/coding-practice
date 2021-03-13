@@ -1,5 +1,7 @@
 # Html Practice
 
+Abandoned Project i will working on another project instead
+
 Nothing to see here just some github practice i think
 
 Webiste based on:
